@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Web Search [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/topics/awesome)
 
 A curated list of AI-powered web search software, focusing on the intersection of Large Language Models (LLMs) and web search capabilities.
@@ -147,3 +148,7 @@ The list is organized as a timeline, containing software that support the follow
 | [2025-07-23](https://proton.me/blog/lumo-ai)                                                                                                                   | [Lumo](https://lumo.proton.me/)                        |
 | [2025-07-28](https://x.com/Zai_org/status/1949721032970903651)                                                                                                 | [Z.ai](https://chat.z.ai/)                             |
 | [2025-08-07](https://miromind.ai/blog/miromind-open-deep-research)                                                                                             | [MiroThinker](https://dr.miromind.ai/)                 |
+=======
+# GenAI_Project
+New
+>>>>>>> 49c9ae61a92b32f6972f881b4dfa5ad12eb57c2d
